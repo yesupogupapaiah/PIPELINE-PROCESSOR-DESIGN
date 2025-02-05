@@ -67,6 +67,5 @@ The design and simulation of the 4-stage pipelined processor successfully demons
 
 
 ### Output: 
-![output]()
+![output](https://github.com/yesupogupapaiah/PIPELINE-PROCESSOR-DESIGN/blob/main/task3.png)
 
-#
